@@ -105,13 +105,7 @@ select {
     margin-left: auto;
     margin-right: auto;
   }
-}
 
-hr {
-  border: 1px solid red;
-  width: 50%;
-  margin: auto;
-}
 label {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
